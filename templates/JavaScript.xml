@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="desc" value="/*&#10;*@author: Renlingling&#10;*@description:&#10;*/" description="desc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
